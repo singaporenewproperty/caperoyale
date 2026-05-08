@@ -1,0 +1,9 @@
+# Cape Royale
+
+> Cape Royale — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/caperoyale/
+
+## Pages
+
+- [Cape Royale](https://singaporenewproperty.github.io/caperoyale/): Cape Royale property information.
